@@ -39,8 +39,6 @@ Dieses Projekt implementiert verschiedene NLP-Techniken zur Klassifizierung deut
 - NLTK
 - spaCy
 - scikit-learn
-- Pandas & NumPy
-- Matplotlib & Seaborn
 
 ## Modellleistung
 

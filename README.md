@@ -61,3 +61,12 @@ Dieses Projekt implementiert verschiedene NLP-Techniken zur Klassifizierung deut
 - Deutsches Sprachmodell für spaCy installieren
 
     - python -m spacy download de_core_news_sm
+ 
+  ## Zukünftige Verbesserungen
+
+- Integration weiterer Sprachmodelle
+- Optimierung der Hyperparameter
+- Erweiterung der Textvorverarbeitung
+- Implementierung von Cross-Validation
+-------------------------------------------
+Dieses Projekt wurde im Rahmen einer NLP-Analyse deutscher Nachrichtentexte entwickelt und demonstriert verschiedene Techniken der modernen Textverarbeitung und -klassifizierung.

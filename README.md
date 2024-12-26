@@ -62,7 +62,7 @@ Dieses Projekt implementiert verschiedene NLP-Techniken zur Klassifizierung deut
 
     - python -m spacy download de_core_news_sm
  
-  ## Zukünftige Verbesserungen
+## Zukünftige Verbesserungen
 
 - Integration weiterer Sprachmodelle
 - Optimierung der Hyperparameter

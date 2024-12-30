@@ -1,4 +1,4 @@
-# Deutsche Nachrichtenklassifizierung und NLP-Analyse
+# Deutsche News Sentiment Analyse 
 
 ## Projektbeschreibung
 
